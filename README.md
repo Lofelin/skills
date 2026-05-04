@@ -7,6 +7,7 @@
 | 技能 | 说明 |
 |------|------|
 | [`korin/`](./korin) | **独立思维之心** — 让 Claude 拥有独立观点与判断力，主动搜索事实、形成见解，基于证据给出真实的赞扬与批评，不等待指令即行动。触发词："Korin"、"帮我想想"、"你怎么看"、"说真话"、"挑战我" 等。 |
+| [`feishu-doc/`](./feishu-doc) | **产研飞书文档** — 按团队规范生成 PRD / 技术方案 / 设计文档 / 项目复盘：数字编号标题、版本历史表格、统一术语（RD/PM/UX/PoC）、阶段规划不含时间预估。依赖 `feishu-mcp` 工具。 |
 | [`superpowers/`](./superpowers) | **superpowers-zh 安装说明**（仅安装指引，不含源码）— 第三方插件 [`jnMetaCode/superpowers-zh`](https://github.com/jnMetaCode/superpowers-zh) 的安装与跨平台接入文档。 |
 
 ## 目录结构
