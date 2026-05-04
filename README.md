@@ -7,6 +7,7 @@
 | 技能 | 说明 |
 |------|------|
 | [`korin/`](./korin) | **独立思维之心** — 让 Claude 拥有独立观点与判断力，主动搜索事实、形成见解，基于证据给出真实的赞扬与批评，不等待指令即行动。触发词："Korin"、"帮我想想"、"你怎么看"、"说真话"、"挑战我" 等。 |
+| [`superpowers/`](./superpowers) | **superpowers-zh 安装说明**（仅安装指引，不含源码）— 第三方插件 [`jnMetaCode/superpowers-zh`](https://github.com/jnMetaCode/superpowers-zh) 的安装与跨平台接入文档。 |
 
 ## 目录结构
 
